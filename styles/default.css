@@ -2,6 +2,28 @@
 /* CSS Document */
 
 body{
-	background-color: #fcf0e3;
+	background-color: #fcf0e3 !important;
+}
+
+img {
+	height: 300px;
+	float: right;
+    margin: 10px 0 10px 10px;
+}
+
+h1{
+	font-family: 'Lily Script One', cursive !important;
+}
+
+p{
+	font-family: 'Raleway', sans-serif;
+}
+
+.row {
+	padding: 10px 0 10px 0;
+}
+
+#footnote{ 
+	padding-top: 40px;
 }
 
